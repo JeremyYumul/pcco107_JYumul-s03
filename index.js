@@ -10,12 +10,12 @@ function subtractNum(subNum1, subNum2){
 	console.log(result)
 	return result;
 }
-let differenceResult = subtractNum(50, 5)
+let differenceResult = subtractNum(10, 5)
 
 function multiplyNum(multNum1, multNum2){
 	result = multNum1 * multNum2;
 
 	return result;
 }
-let product = multiplyNum(50, 5)
+let product = multiplyNum(69, 420)
 console.log(`The result of the operation is: ${product}`)
